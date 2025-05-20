@@ -37,4 +37,6 @@ Make sure OpenCV is installed. Then compile and run using:
 ```bash
 g++ main.cpp -o thresholding `pkg-config --cflags --libs opencv4`
 ```
-`./thresholding`
+```bash
+./thresholding
+```
